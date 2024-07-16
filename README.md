@@ -1,5 +1,5 @@
 Welcome to the Secure Voting with BlockChain !
-This is Collaborative project done within 12hr as team with [Prasanna Kumar](https://github.com/pras-annna) and [Dharshna](https://github.com/Dharshna2805))
+This is Collaborative project done within 12hr as team with [Prasanna Kumar](https://github.com/pras-annna) and [Dharshna](https://github.com/Dharshna2805)
 
 # Blockchain-Based Voting System
 
